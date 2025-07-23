@@ -1,1 +1,1 @@
-This repository contains the various basic and code of the various dsa problem.
+This repository contains the various basic about cpp language and code of the various dsa problem.
